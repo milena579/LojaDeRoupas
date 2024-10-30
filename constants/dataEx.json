@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "nome": "andre",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+    },
+    {
+        "id": "2",
+        "nome": "Milena",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    },
+    {
+        "id": "3",
+        "nome": "Ingrid",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    },
+    {
+        "id": "4",
+        "nome": "Mariana",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    },
+    {
+        "id": "5",
+        "nome": "Helena",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    },
+    {
+        "id": "6",
+        "nome": "Juliana",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    },
+    {
+        "id": "7",
+        "nome": "Juan",
+        "idade": "15",
+        "data": "10/10/25",
+        "imagem": "../assets/images/react-logo.png"
+
+    }
+
+]
