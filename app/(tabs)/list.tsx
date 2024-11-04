@@ -1,8 +1,7 @@
 import { Text, SafeAreaView, FlatList, StyleSheet} from "react-native";
 import data from "@/constants/dataEx.json"
-import { Item
+import {Item} from "@/components/item";
 
- } from "@/components/item";
 export default function List(){
     return(
         <>

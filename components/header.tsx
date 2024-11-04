@@ -3,10 +3,14 @@ import { View, Text, Image, ImageSourcePropType, StyleSheet } from "react-native
 export const Header = ({image} : {image : ImageSourcePropType}) => {
     return (
         <>
-            <View style={styles.background}>
+            {/* <View style={styles.background}>
                 <Text style={styles.temQSerNoText}>Header exemplo</Text>
                 <Text style={styles.fonteDiferente}>Testando fontes diferentes</Text>
                 <Image source={image}/>
+            </View> */}
+
+            <View style={styles.background}>
+                <Text style={styles.temQSerNoText}>Loja de Roupas</Text>
             </View>
         </>
     );
